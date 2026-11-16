@@ -1,1 +1,6 @@
 Application version 2 from main
+<<<<<<< HEAD
+Application version 2 from main
+=======
+Application version 2 from dev
+>>>>>>> dev
